@@ -508,7 +508,7 @@ If you think you're seeing this screen accidentally, click "restore purchases" t
             <ActionButton
               flex={1}
               title={"Terms of Service"}
-              fillColor="#EDF0FC"
+              fillColor="#FFFFFF"
               textColor={theme.darkBlue}
               onPress={() => {
                 Linking.canOpenURL("https://quirk.fyi/tos").then(() =>
